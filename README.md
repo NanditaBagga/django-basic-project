@@ -5,7 +5,7 @@
 python manage.py runserver
 python manage.py createsuperuser
 python manage.py makemigrations
-python manage.py sqlmigrate appName migrationNumberGenerated
+python manage.py sqlmigrate $APPNAME $GENERATED_NUMBER
 python manage.py migrate
 python manage.py shell
 ```
