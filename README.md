@@ -14,9 +14,9 @@ python manage.py shell
 pip install pillow 
 ```
 
-![](.\SCR\Django_1.png)
-![](.\SCR\Django_2.png)
-![](.\SCR\Django_3.png)
-![](.\SCR\Django_4.png)
-![](.\SCR\Django_5.png)
-![](.\SCR\django_sql.png)
+![SCR](./SCR/Django_1.png)
+![SCR](./SCR/Django_2.png)
+![SCR](./SCR/Django_3.png)
+![SCR](./SCR/Django_4.png)
+![SCR](./SCR/Django_5.png)
+![SCR](./SCR/django_sql.png)
